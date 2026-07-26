@@ -5,7 +5,7 @@ ML Engineering Student | Flutter developer | Backend Enthusiast
 </h3>
 
 <p align="center">
-I'm a Software Engineering student at the African Leadership University who enjoys building scalable mobile applications and solving real-world problems with technology. My interests lie in Mobile development, backend development, cloud technologies, AI/ML, and creating products that make a positive impact. 
+I'm a Software Engineering student at the African Leadership University who enjoys building scalable mobile applications, backend systems and AI/ML solutions. My interests lie in Mobile development, backend development, cloud technologies, AI/ML, and creating products that make a positive impact. 
 </p>
 
 ---
