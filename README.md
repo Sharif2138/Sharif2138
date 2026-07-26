@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sharif Kiviiri</h1>
 
 <h3 align="center">
-Software Engineering Student ML Engineering| | Flutter developer | Backend Enthusiast 
+Software Engineering | Student ML Engineering | Flutter developer | Backend Enthusiast 
 </h3>
 
 <p align="center">
-I'm a Software Engineering student at the African Leadership University who enjoys building scalable web applications and solving real-world problems with technology. My interests lie in backend development, cloud technologies, AI, and creating products that make a positive impact. 
+I'm a Software Engineering student at the African Leadership University who enjoys building scalable mobile applications and solving real-world problems with technology. My interests lie in Mobile development, backend development, cloud technologies, AI/ML, and creating products that make a positive impact. 
 </p>
 
 ---
