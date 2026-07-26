@@ -3,11 +3,11 @@
 ML Engineering Student | Flutter Developer | Backend Enthusiast
 </h3>
 
-<p align="">
+<p align="center">
 Software Engineering student at the African Leadership University, specializing in Machine Learning. I build scalable mobile apps, backend systems, and AI-powered solutions aimed at real-world impact — from campus networking tools to healthcare screening apps for underserved communities.
 </p>
 
-<p align="center">
+<p>
 🔭 Currently building <b>ALU Globe</b>, a Flutter + NestJS + Next.js platform that helps university students connect, collaborate, and network<br>
 🧬 Working on <b>DermaAI</b>, an AI-assisted mobile skin cancer screening tool for underserved communities in Rwanda<br>
 🌱 Currently deepening my skills in NestJS, DevOps, cloud computing, and machine learning<br>
