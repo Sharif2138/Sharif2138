@@ -5,16 +5,8 @@ ML Engineering Student | Flutter developer | Backend Enthusiast
 </h3>
 
 <p align="center">
-I'm a Software Engineering student at the African Leadership University who enjoys building scalable mobile applications, backend systems and AI/ML solutions. My interests lie in Mobile development, backend development, cloud technologies, AI/ML, and creating products that make a positive impact. 
+I'm a Software Engineering student at the African Leadership University who enjoys building scalable mobile applications, backend systems and AI/ML solutions. My interests lie in Mobile development, backend development, cloud technologies, AI/ML, and creating products that make a positive impact. I’m currently working on Globe mobile app using flutter, a mobile app that helps university students connect, collaborate, and network.<br> I’m looking to collaborate on mobile applications using flutter, backend systems, and AI-powered solutions.<br> I’m currently learning NestJS,  Devops, cloud computing, and machine learning.<br>Ask me about Flutter, ML, Python, Dart, Node.js, ExpresJs,NestJS, FastAPI, PostgreSQL, Supabase, Firebase and Mongodb.<br>Fun fact: I enjoy turning ideas into real products and have led teams building applications from concept to deployment.
 </p>
-
----
-
-## 🚀 About Me
-I’m currently working on Globe mobile app using flutter, a mobile app that helps university students connect, collaborate, and network.<br> I’m looking to collaborate on mobile applications using flutter, backend systems, and AI-powered solutions.<br> I’m currently learning NestJS,  Devops, cloud computing, and machine learning.<br>Ask me about Flutter, ML, Python, Dart, Node.js, ExpresJs,NestJS, FastAPI, PostgreSQL, Supabase, Firebase and Mongodb.<br>Fun fact: I enjoy turning ideas into real products and have led teams building applications from concept to deployment.
-
-
----
 
 ## 🛠️ Tech Stack
 
