@@ -3,7 +3,7 @@
 ML Engineering Student | Flutter Developer | Backend Enthusiast
 </h3>
 
-<p align="center">
+<p align="">
 Software Engineering student at the African Leadership University, specializing in Machine Learning. I build scalable mobile apps, backend systems, and AI-powered solutions aimed at real-world impact — from campus networking tools to healthcare screening apps for underserved communities.
 </p>
 
