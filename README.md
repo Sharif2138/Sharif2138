@@ -57,7 +57,7 @@ A full-stack social networking platform (Flutter mobile · NestJS backend · Nex
 ### 🧬 [DermaAI](#)
 A computer-vision-powered mobile screening tool for early skin cancer detection, built as my ALU capstone project and designed for accessibility in underserved communities in Rwanda.
 
-> Replace the `#` links above with your repo/demo URLs once available.
+
 
 ---
 
