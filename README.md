@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharif Kiviiri</h1>
 
 <h3 align="center">
-Software Engineering Student | Full-Stack Developer | Backend Enthusiast | AI Explorer
+Software Engineering Student ML Engineering| | Flutter developer | Backend Enthusiast 
 </h3>
 
 <p align="center">
