@@ -8,8 +8,7 @@ Software Engineering student at the African Leadership University, specializing 
 </p>
 
 <p>
-🔭 Currently building <b>ALU Globe</b>, a Flutter + NestJS + Next.js platform that helps university students connect, collaborate, and network<br>
-🧬 Working on <b>DermaAI</b>, an AI-assisted mobile skin cancer screening tool for underserved communities in Rwanda<br>
+🧬 Working on <b>SkinX</b>, an AI-assisted mobile skin cancer screening tool for people with albinism in Rwanda<br>
 🌱 Currently deepening my skills in NestJS, DevOps, cloud computing, and machine learning<br>
 🤝 Open to collaborating on Flutter apps, backend systems, and AI-powered products<br>
 💬 Ask me about Flutter, ML, Python, Dart, Node.js, Express, NestJS, FastAPI, PostgreSQL, Supabase, Firebase, MongoDB<br>
