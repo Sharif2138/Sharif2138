@@ -45,18 +45,6 @@ Software Engineering student at the African Leadership University, specializing 
 
 ---
 
-## 📌 Featured Projects
-
-### 🌍 [ALU Globe](#)
-A full-stack social networking platform (Flutter mobile · NestJS backend · Next.js web) that helps university students connect through communities, events, messaging, business directories, and country hubs.
-
-### 🧬 [DermaAI](#)
-A computer-vision-powered mobile screening tool for early skin cancer detection, built as my ALU capstone project and designed for accessibility in underserved communities in Rwanda.
-
-
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
